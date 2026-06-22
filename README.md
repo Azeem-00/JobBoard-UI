@@ -41,7 +41,7 @@ This project was developed to strengthen frontend development skills by building
 
 ## Author
 
-Abdul Azeem
+AbdulGaniyu AbdulAzeem
 
 GitHub:
 https://github.com/Azeem-00
